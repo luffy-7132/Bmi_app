@@ -38,10 +38,7 @@ class _MyHomePgaeState extends State<MyHomePgae> {
 
   String result = "";
   var msg = "";
-
-  ///over red
-  ///under yellow
-  ///healthy green
+///////////
   var bgColor = Colors.grey.shade100;
 
   @override
